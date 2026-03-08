@@ -1,0 +1,5 @@
+{
+  "name": "风能小吊车实验室",
+  "description": "一个基于真实物理模型的风能转化实验模拟器，支持风速调节、负载测试及分层科学探究。",
+  "requestFramePermissions": []
+}
